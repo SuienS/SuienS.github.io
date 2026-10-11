@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://suiens.github.io//sitemap.xml
+Sitemap: https://ravidusilva.com//sitemap.xml
