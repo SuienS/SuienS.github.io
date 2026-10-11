@@ -10,8 +10,8 @@ contact_note: >
   Contact me via any of the social media links above or by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD researcher in generative AI for personalised education, with a track record in explainable AI for healthcare and in deploying AI systems.
-footer_text: 
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+footer_text:
+keywords: generative AI, AI in education, explainable AI, LLMs, Ravidu Silva # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📚 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -170,17 +170,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-    categories: [external-posts]
-    tags: [medium]
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
-    categories: [external-posts]
-    tags: [google]
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -229,6 +219,9 @@ include: ["_pages"]
 exclude:
   - _news/announcement_*.md
   - _pages/blog.md
+  - _pages/books.md
+  - _books/
+  - _pages/plugins.md
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/profiles.md

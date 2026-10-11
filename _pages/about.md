@@ -35,9 +35,10 @@ Before the PhD, I led the R&D team at BooleenLab (formerly BooleanLabs) in Colom
 I work mainly in Python and PyTorch, from architecture through to deployment. I will complete my PhD in late 2027 and am looking for research-focused roles in the UK from autumn 2027.
 
 **Research interests**:
+
 - Generative AI and LLMs for personalised education
 - Explainable AI, especially for computer vision
 - AI for medical imaging and digital health
 - Deployable, production-grade ML systems
 
-*This website is currently under construction. Please check back later for more information about my research, publications, and projects.*
+_This website is currently under construction. Please check back later for more information about my research, publications, and projects._
