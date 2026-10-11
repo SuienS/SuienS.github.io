@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"bird":
+  - firstname: ["Jordan", "J.", "J. J.", "Jordan J Bird"]
+    url: https://jordanjamesbird.com/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"lotfi":
+  - firstname: ["Ahmad", "A.", "A. L.", "Ahmad Lotfi"]
+    url: https://lotfi.uk/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"shahtahmassebi":
+  - firstname: ["Golnaz", "G.", "G. S.", "Golnaz Shahtahmassebi"]
+    url: https://www.ntu.ac.uk/staff-profiles/science-technology/golnaz-shahtahmassebi
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"ihianle":
+  - firstname: ["Isibor", "Kennedy", "I. K.", "Isibor Kennedy Ihianle", "Isibor K. Ihianle"]
+    url: https://www.ntu.ac.uk/staff-profiles/science-technology/Isibor-Kennedy-Ihianle
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"fernando":
+  - firstname: ["Pumudu", "Pumudu A.", "P. A.", "Pumudu Fernando", "Pumudu A. Fernando"]
+    url: https://www.linkedin.com/in/pumudu-a-fernando-112a3211/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"piyadasa":
+  - firstname: ["Tharinda", "T.", "T. P.", "Tharinda Piyadasa"]
+    url: https://www.linkedin.com/in/tharinda-d/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"kasthurirathna":
+  - firstname: ["Dharshana", "D.", "D. K.", "Darshana Kasthurirathna"]
+    url: https://www.linkedin.com/in/dharshana-kasthurirathna-a4a3275/
