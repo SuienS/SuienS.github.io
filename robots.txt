@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ravidusilva.com//sitemap.xml
+Sitemap: https://ravidusilva.com/sitemap.xml
