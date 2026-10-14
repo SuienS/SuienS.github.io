@@ -4,6 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - SuienS/glassbox-gpt
   - SuienS/manim-trainer
   - SuienS/xai-inference-engine
   - SuienS/lesson-bench-v1

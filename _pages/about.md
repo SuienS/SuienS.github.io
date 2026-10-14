@@ -28,7 +28,7 @@ latest_posts:
 
 I research how generative AI can create personalised, reliable, and trustworthy learning material, and I build AI systems deployed in the real world.
 
-My PhD at Nottingham Trent University focuses on transitional learners, students moving between stages and/or educational environments. As part of the research, I work on LLMs that generate executable and renderable artefacts, such as code that renders explanatory videos, so that what a model produces can be checked rather than taken on trust. My earlier work on explainable AI and medical imaging has been published with Springer and IEEE. I also lecture at NTU on mathematics, databases and C++.
+My PhD at Nottingham Trent University focuses on transitional learners, students moving between stages and/or educational environments. As part of the research, I work on LLMs that generate executable and renderable artefacts, such as code that renders explanatory videos, so that what a model produces can be checked rather than taken on trust. My earlier work on explainable AI and medical imaging has been published with Springer and IEEE. Alongside the research, I build interactive explainability tools such as [Glass-box GPT](https://ravidusilva.com/glassbox-gpt/), which trains a tiny GPT in your browser and shows why it writes each character. I also lecture at NTU on mathematics, databases and C++.
 
 Before the PhD, I led the R&D team at BooleenLab (formerly BooleanLabs) in Colombo, building commercial AI products for clients in the US, UK and Singapore. At Ensera Design (formerly Kinneir Dufort) in Bristol, I built the back end for AI-assisted breast cancer diagnosis and an AI classifier deployed across 80 kiosks.
 
