@@ -1,0 +1,8 @@
+{% comment %}
+  Local override of al_folio_core's wrapper: keeps the al_analytics scripts and adds GoatCounter,
+  which al_analytics doesn't support. Set analytics.goatcounter in _config.yml.
+{% endcomment %}
+{% al_analytics_scripts %}
+{% if site.analytics.goatcounter %}
+  <script data-goatcounter="https://{{ site.analytics.goatcounter }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{% endif %}
