@@ -228,6 +228,7 @@ exclude:
   - _pages/profiles.md
   - _pages/dropdown.md
   - _pages/cv.md
+  - _pages/news.md
   - _posts/
   - _projects/?_project.md
   - AGENTS.md
@@ -308,6 +309,10 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: "assets/pdf"
+    values:
+      sitemap: true
 
 sass:
   style: compressed
