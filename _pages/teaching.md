@@ -2,14 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Undergraduate and degree-apprenticeship modules taught at Nottingham Trent University.
 nav: true
 nav_order: 6
-calendar: true
+calendar: false
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+Since August 2025, I have served as an **Hourly Paid Lecturer** in the Department of Computer Science at Nottingham Trent University, contributing to undergraduate and degree-apprenticeship teaching alongside my doctoral research:
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **Year 1 BSc (Hons):** C++ Programming · Mathematics for Computing
+- **Year 2 BSc (Hons):** Database Engineering · Software Design and Implementation
+- **BSc Degree Apprenticeship:** Data Science Systems Analysis and Design
 
 {% include courses.liquid %}

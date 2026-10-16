@@ -1,189 +1,137 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Ravidu Suien Rammuni Silva
+  label: PhD Candidate in AI & Hourly Paid Lecturer
+  email: ravidus.ac@gmail.com
+  location: Nottingham, United Kingdom
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Doctoral researcher in Artificial Intelligence and Hourly Paid Lecturer in Computer Science at Nottingham Trent University, with over two years of commercial experience designing, building, and deploying production AI systems across healthcare, manufacturing, and property technology. Research focuses on generative AI, LLM post-training (SFT, GRPO reinforcement learning) and agentic inference for personalised education, alongside explainable AI (XAI) and computer vision.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: SuienS
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: ravidu-silva
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: Nottingham Trent University
+        location: Nottingham, UK
+        url: https://www.ntu.ac.uk/
+        area: Computer Science
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2024-10
+        end_date: Present
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Theme: Leveraging Generative AI to enhance educational systems and deliver a personalised educational experience for transitional learners."
+          - "Expected completion: 2027."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Nottingham Trent University
+        location: Nottingham, UK
+        url: https://www.ntu.ac.uk/
+        area: Data Science (with Integrated Industrial Placement)
+        studyType: MSc
+        start_date: 2022-09
+        end_date: 2024-09
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Award: Higher Distinction (GPA: 15.0 / 16.0)."
+          - "Dissertation: ArtBrain: Explainable AI for Classification and Attribution of AI-Generated Art and Style."
+
+      - institution: University of Westminster
+        location: London, UK
+        url: https://www.westminster.ac.uk/
+        area: Computer Science
+        studyType: BSc (Hons.)
+        start_date: 2016-09
+        end_date: 2021-09
+        highlights:
+          - "Award: First-Class Honours (81%)."
+          - "Dissertation: Parallelised Deep Convolutional Neural Networks for Pathology Detection and Localisation in Chest X-Rays."
+
+      - institution: University of Kelaniya
+        location: Kelaniya, Sri Lanka
+        url: https://www.kln.ac.lk/
+        area: Physics, Pure Mathematics and Electronics
+        studyType: BSc
+        start_date: 2018-04
+        end_date: 2021-04
+        highlights:
+          - "Award: Second-Class Honours (GPA: 3.21 / 4.00)."
+          - "Project: Facial Recognition based Door-Lock System."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Nottingham Trent University, Department of Computer Science
+        position: Hourly Paid Lecturer
+        location: Nottingham, UK
+        start_date: 2025-08
+        end_date: Present
+        summary: Teaching undergraduate and degree-apprenticeship modules alongside doctoral research.
         highlights:
-          - Relativity
-          - Description 2.
+          - "Year 1 UG: C++ Programming, Mathematics for Computing."
+          - "Year 2 UG: Database Engineering, Software Design and Implementation."
+          - "BSc Apprenticeship: Data Science Systems Analysis and Design."
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Ensera Design (formerly Kinneir Dufort)
+        position: Software Engineer (Placement)
+        location: Bristol, UK
+        start_date: 2023-09
+        end_date: 2024-09
+        summary: Postgraduate placement delivering software and AI projects for multinational clients, primarily in healthcare.
         highlights:
-          - Description 1.
-          - Description 2.
+          - "AI-assisted breast cancer diagnosis (Python, PyTorch, FastAPI): Built the back end deploying a CNN model with a focus on architecture and explainability."
+          - "AI natural stone classifier (C#, .NET, WinUI 3, C++): Developed an MVVM Windows 11 IoT kiosk application with an SVM classifier, deployed across 80 kiosks."
+          - "Generic driver library (C, C++, Python, CppUTest, STM32): Developed a reusable CRC calculation module with unit tests and a Python CLI release automation tool."
+          - "Online catalogue (ReactJS, TypeScript, SharePoint): Built an internal management tool for a multinational healthcare client."
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: BooleenLab
+        position: Engineer - AI Research & Technology
+        location: Colombo, Sri Lanka
+        start_date: 2021-07
+        end_date: 2022-09
+        summary: Promoted from Associate Engineer within six months. Led the R&D team on commercial AI products for clients in the USA, UK, and Singapore.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - "HeHealth intelligent digital health platform (Python, PyTorch, Flask, AWS): Led back-end and database engineering across doctor/admin portals and mobile app; designed a semi-serverless AWS architecture and co-developed the CNN, saliency maps, and reasoning engine."
+          - "Inspective property inspection platform (Python, TensorFlow, Django, AWS): Led back-end development and deployed a custom defect-detection CNN on AWS."
+          - "Recommender system for fabrics and elastics (Python, PyTorch, FastAPI, AWS): Initiated and led R&D on fabric classification and recommendation for Stretchline."
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Rootcode Labs
+        position: AI Engineer - Intern
+        location: Colombo, Sri Lanka
+        start_date: 2021-05
+        end_date: 2021-06
+        highlights:
+          - "ConverseAI recruitment chatbot (Python, Rasa, FastAPI, AWS): Built a retraining pipeline with ~20s downtime for an award-winning product."
+          - "Intelligent CV parser (Python, PyTorch, NLTK, AWS): Contributed to training and retraining pipelines for structured CV extraction."
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Professional Activities:
+      - label: PGR Ambassador, NTU Department of Computer Science (12/2025 – Present)
+        details: Represents postgraduate researchers in the NTU Computational Intelligence and Robotics Cluster (CIRC).
+      - label: Student Ambassador and Student Outreach Ambassador, NTU (11/2022 – Present)
+        details: Promoted higher education and STEM across Nottinghamshire schools and university open days.
+      - label: Peer Reviewer (02/2020 – Present)
+        details: IEEE Transactions on Multimedia (TMM), IEEE IJCNN, IEEE IROS, and IEEE FRUCT conferences.
+      - label: Mobile Application Developer (10/2019 – 06/2020)
+        details: Volunteer role at AIESEC International, Sri Lanka.
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: AI, Machine Learning & Data Science
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, TensorFlow, LLMs (SFT, LoRA/QLoRA, GRPO RL, Agentic Inference), Explainable AI (XAI), Computer Vision, CNNs"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - name: Programming & Software Engineering
+        icon: fa-solid fa-code
+        keywords: "Python, C++, C#, TypeScript/JavaScript, Java, Swift, FastAPI, Django, Flask, ReactJS, MVVM, Git, Docker"
 
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Cloud & Databases
+        icon: fa-solid fa-cloud
+        keywords: "AWS, GCP, Azure, PostgreSQL, MySQL, Serverless & Microservice Architectures"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Deep Learning Specialisation
+        date: 2021
+        issuer: Coursera (DeepLearning.AI)
+        icon: fa-solid fa-certificate
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Advanced Data Science Specialisation
+        date: 2021
+        issuer: IBM
+        icon: fa-solid fa-certificate

@@ -1,9 +1,31 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IEEE TMM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
+  color: "#00629B"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"NeurIPS-W":
+  url: https://neurips.cc/
+  color: "#6b4c9a"
 
-"Vision":
-  color: "#009f36"
+"UKCI":
+  url: https://link.springer.com/book/10.1007/978-3-032-07938-1
+  color: "#025e8d"
+
+"SN Comp. Sci.":
+  url: https://link.springer.com/journal/42979
+  color: "#025e8d"
+
+"FRUCT":
+  url: https://fruct.org/
+  color: "#00629B"
+
+"NILES":
+  url: https://ieeexplore.ieee.org/xpl/conhome/9942350/proceeding
+  color: "#00629B"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
+
+"Preprint":
+  url: https://www.researchsquare.com/
+  color: "#5a6268"
