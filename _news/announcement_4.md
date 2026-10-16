@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Our paper [_"ArtBrain: An Explainable End-to-End Toolkit for Classification and Attribution of AI-Generated Art and Style"_](https://doi.org/10.1109/TMM.2026.3743638) has been published in **IEEE Transactions on Multimedia**!
-
