@@ -4,7 +4,7 @@ cv:
   email: ravidus.ac@gmail.com
   location: Nottingham, United Kingdom
   image: ""
-  summary: Doctoral researcher in Artificial Intelligence and Hourly Paid Lecturer in Computer Science at Nottingham Trent University, with over two years of commercial experience designing, building, and deploying production AI systems across healthcare, manufacturing, and property technology. Research focuses on generative AI, LLM post-training (SFT, GRPO reinforcement learning) and agentic inference for personalised education, alongside explainable AI (XAI) and computer vision.
+  summary: Doctoral researcher in Artificial Intelligence and Hourly Paid Lecturer in Computer Science at Nottingham Trent University, with over two years of commercial experience designing, building, and deploying production AI and embedded software across healthcare, manufacturing, and property technology. Research focuses on compact LLMs, post-training (SFT, LoRA/QLoRA, GRPO reinforcement learning) and execution-grounded inference for personalised education, alongside explainable AI (XAI) and computer vision, with a growing focus on verifiable AI for edge hardware.
 
   social_networks:
     - network: GitHub
@@ -79,7 +79,7 @@ cv:
         highlights:
           - "AI-assisted breast cancer diagnosis (Python, PyTorch, FastAPI): Built the back end deploying a CNN model with a focus on architecture and explainability."
           - "AI natural stone classifier (C#, .NET, WinUI 3, C++): Developed an MVVM Windows 11 IoT kiosk application with an SVM classifier, deployed across 80 kiosks."
-          - "Generic driver library (C, C++, Python, CppUTest, STM32): Developed a reusable CRC calculation module with unit tests and a Python CLI release automation tool."
+          - "Embedded drivers (C, C++, Python, CppUTest, STM32): Developed a reusable CRC calculation module with unit tests, a sound (beeper) driver for a medical device, and a Python CLI release automation tool."
           - "Online catalogue (ReactJS, TypeScript, SharePoint): Built an internal management tool for a multinational healthcare client."
 
       - company: BooleenLab
@@ -104,7 +104,7 @@ cv:
 
     Professional Activities:
       - label: PGR Ambassador, NTU Department of Computer Science (12/2025 – Present)
-        details: Represents postgraduate researchers in the NTU Computational Intelligence and Robotics Cluster (CIRC).
+        details: Represents postgraduate researchers in the NTU Computer Science and Informatics Research Centre (CIRC).
       - label: Student Ambassador and Student Outreach Ambassador, NTU (11/2022 – Present)
         details: Promoted higher education and STEM across Nottinghamshire schools and university open days.
       - label: Peer Reviewer (02/2020 – Present)
@@ -115,11 +115,11 @@ cv:
     Skills:
       - name: AI, Machine Learning & Data Science
         icon: fa-solid fa-brain
-        keywords: "PyTorch, TensorFlow, LLMs (SFT, LoRA/QLoRA, GRPO RL, Agentic Inference), Explainable AI (XAI), Computer Vision, CNNs"
+        keywords: "PyTorch, TensorFlow, Compact LLMs (SFT, LoRA/QLoRA, GRPO RL, Execution-Grounded Inference), Explainable AI (XAI), Computer Vision, CNNs"
 
-      - name: Programming & Software Engineering
+      - name: Programming, Embedded & Software Engineering
         icon: fa-solid fa-code
-        keywords: "Python, C++, C#, TypeScript/JavaScript, Java, Swift, FastAPI, Django, Flask, ReactJS, MVVM, Git, Docker"
+        keywords: "Python, C++, C#, Embedded C (STM32), TypeScript/JavaScript, Java, Swift, FastAPI, Django, Flask, ReactJS, MVVM, Git, Docker"
 
       - name: Cloud & Databases
         icon: fa-solid fa-cloud
