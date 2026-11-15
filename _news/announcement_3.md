@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper _"Visually Grounded Reinforcement Learning for LLM Programmatic Animation Generation in Interactive Execution Environments"_ has been accepted to the **NeurIPS 2026 Workshop** on Foundations of LLM Post-Training in Changing Environments!
+Our paper _"Visually Grounded Reinforcement Learning for LLM Programmatic Animation Generation in Interactive Execution Environments"_ has been accepted to the **[NeurIPS 2026 Workshop](https://neurips.cc/virtual/2026/loc/paris/164467)** on Foundations of LLM Post-Training in Changing Environments!
